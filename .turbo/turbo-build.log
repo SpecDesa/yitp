@@ -15,7 +15,7 @@
 - info Finalizing page optimization...
 
 Route (pages)                              Size     First Load JS
-┌ ○ /                                      1.62 kB         105 kB
+┌ ○ /                                      1.64 kB         105 kB
 ├   /_app                                  0 B             101 kB
 ├ ○ /404                                   182 B           101 kB
 ├ ○ /aboutYITP                             891 B           105 kB
@@ -25,7 +25,7 @@ Route (pages)                              Size     First Load JS
   ├ chunks/main-b6d5bafd2eabb8e1.js        28.3 kB
   ├ chunks/pages/_app-c96165760196e730.js  26.9 kB
   ├ chunks/webpack-ee7e63bc15b31913.js     815 B
-  └ css/4798ee8a35156a6e.css               3.04 kB
+  └ css/83e7762032166f63.css               2.73 kB
 
 λ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
 ○  (Static)  automatically rendered as static HTML (uses no initial props)
