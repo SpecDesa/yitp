@@ -16,4 +16,4 @@ The YITP Events Communication Page is built using the T3 Stack, a powerful web d
 
 - [Next.js](https://nextjs.org) - A React framework for building server-side rendered and static websites.
 - [Tailwind CSS](https://tailwindcss.com) - A utility-first CSS framework for rapidly building custom designs.
-- [tRPC](https://trpc.io) - A TypeScript RPC framework for building type-safe APIs..
+- [tRPC](https://trpc.io) - A TypeScript RPC framework for building type-safe APIs.
